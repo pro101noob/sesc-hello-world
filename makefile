@@ -1,5 +1,3 @@
-PROGRAM= program
-
 run: hello-world    
     ./hello-world
 
